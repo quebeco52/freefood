@@ -27,3 +27,10 @@ Requirements: Node.js, npm, Docker
    npm install
    npm run dev
    ```
+
+   Or, from the repo root:
+
+   ```bash
+   npm run install:all
+   npm run dev:backend
+   ```
